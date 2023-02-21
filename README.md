@@ -1,5 +1,5 @@
-My first program created.
+**Choose the meal**
 
-The software helps you choose what to eat if you have not decided, depending on the time of the day.
+The program will prompt the user to enter their name, and then will ask for the current time. Based on the time, the program will suggest a meal that is appropriate for the time of day. The user will then be asked to select a meal, or they can ask the program to randomly select one for them.
 
 #Alex_K
